@@ -1,2 +1,2 @@
-# Data-visualization-of-US-census-data
+# Data-visualization-of-US-census-data https://public.tableau.com/app/profile/iwuchukwu.nwabueze/viz/USCensusData2015Analysis/USCENSUS2015
  Data visualization and analysis of US census demographic data 2015 using Tableau. The dataset was gotten from Kaggle public data set. Insights were revealed which showed the best transportation network in the US. Also, the correlation between income, poverty and unemployment were studied and insights were generated. Moreso the population and unemployment distribution across counties was studied to generate insights
