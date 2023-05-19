@@ -1,2 +1,7 @@
-# Data-visualization-of-US-census-data https://public.tableau.com/app/profile/iwuchukwu.nwabueze/viz/USCensusData2015Analysis/USCENSUS2015
- Data visualization and analysis of US census demographic data 2015 using Tableau. The dataset was gotten from Kaggle public data set. Insights were revealed which showed the best transportation network in the US. Also, the correlation between income, poverty and unemployment were studied and insights were generated. Moreso the population and unemployment distribution across counties was studied to generate insights
+Insights indicate the state of California pulled the highest population of over 38 million with an average poverty level of 16.7% while Puerto Rico had a population of 3.5 million and an average poverty rate of 49.4%
+
+The relationship between unemployment and income per-capita for all counties exhibits a poor to weak negative correlation while that of unemployment and income per capita indicated a medium to strong negative correlation
+
+The unemployment distribution tells that most counties fell between 6% and 7% unemployment rate
+
+Data-visualization-of-US-census-data https://public.tableau.com/app/profile/iwuchukwu.nwabueze/viz/USCensusData2015Analysis/USCENSUS2015
